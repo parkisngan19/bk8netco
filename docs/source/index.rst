@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BK8 Netco
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BK8 <https://bk8.net.co/>`_ nhà cái uy tín top #1 casino trực tuyến, truy cập https://bk8.net.co/ để có thể tham gia chơi game cá cược đẳng cấp uy tín: game bài, xổ số, bóng đá, slot game cùng nhiều tụa game hấp dẫn khác. Đăng ký Bk8 tại thương hiệu Bk8 Netco người chơi có cơ hội nhận 100k tiền khuyến mãi. Tham gia Bk8 casino để tận hưởng ngay. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 498 Đ. Lũy Bán Bích, Hoà Thanh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0971109860. 
 
-Contents
---------
+Email: info@bk8.net.co. 
 
-.. toctree::
+Website: https://bk8.net.co/ 
 
-   usage
-   api
+#bk8 #bk8netco #nhacaibk8 #bk8link #bk8dangnhap #bk_8
